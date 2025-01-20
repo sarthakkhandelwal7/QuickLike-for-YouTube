@@ -2,7 +2,7 @@
 
 QuickLike adds convenient like/dislike buttons directly to YouTube's video player controls, allowing you to rate videos without leaving fullscreen mode or interrupting your viewing experience.
 
-![QuickLike Demo](screenshots/demo.png)
+![QuickLike Demo]([screenshots/demo.png](https://github.com/sarthakkhandelwal7/QuickLike-for-YouTube/blob/main/screenshots/demo3.png))
 
 ## Features
 
