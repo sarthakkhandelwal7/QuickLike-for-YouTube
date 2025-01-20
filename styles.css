@@ -1,0 +1,37 @@
+.player-like-buttons {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 8px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .player-like-button {
+    background: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px;
+    opacity: 0.9;
+  }
+  
+  .player-like-button:hover {
+    opacity: 1;
+  }
+  
+  .player-like-button.active path {
+    fill: #fff;
+  }
+  
+  .player-like-button:not(.active) path {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 1;
+  }
+  
+  /* Ensure we don't break YouTube's native controls */
+  .ytp-right-controls {
+    display: flex !important;
+    align-items: center !important;
+  }
