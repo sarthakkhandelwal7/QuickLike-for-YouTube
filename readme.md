@@ -8,7 +8,7 @@ QuickLike adds convenient like/dislike buttons directly to YouTube's video playe
 
 - 🎮 Like/Dislike directly from video player controls
 - 🖥️ Works in both fullscreen and regular mode
-- 🔄 Syncs with YouTube's native like/dislike state
+- 🔄 Syncs with YouTube's native-like/dislike state
 - ⚡ Zero performance impact
 - 🔒 No data collection, completely private
 
@@ -48,12 +48,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. For details, see the [LICENSE](https://github.com/sarthakkhandelwal7/QuickLike-for-YouTube/blob/main/LICENSE) file.
 
 ## Support
 
 If you encounter any issues or have suggestions, please:
-1. Check the [known issues](https://github.com/username/quicklike/issues)
+1. Check the [known issues](https://github.com/sarthakkhandelwal7/QuickLike-for-YouTube/issues)
 2. Create a new issue if needed
 
 ## Changelog
